@@ -22,4 +22,4 @@ reboot
 ```bash
 docker run hello-world
 ```
-![{4BE9B7A3-1848-4E1C-8ABA-DA80D96C8647}](https://github.com/user-attachments/assets/b22347ed-d999-4c84-a001-19fd58ffb240)
+
