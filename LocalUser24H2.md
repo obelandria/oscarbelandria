@@ -1,29 +1,33 @@
-## Crear cuenta local en Windows 11 24H2
+
+
+
+# Crear cuenta local en Windows 11 24H2
 
 > [!IMPORTANT]
 > El ordenador debe estar desconectado del internet
 
-Iniciamos el ordenador 
 
-Seleccionamos el pais o region
+### Iniciamos el ordenador 
+
+    1. Seleccionamos el pais o region
 
 ![imagen](https://github.com/user-attachments/assets/2428bd82-1fa4-4ed0-b15f-e782edd14662)
 
-Seleccionamos la distribucion del teclado
+    2. Seleccionamos la distribucion del teclado
 
 ![imagen](https://github.com/user-attachments/assets/e69686da-4ba2-4cad-8d87-820c40bcfc3f)
 
 ![imagen](https://github.com/user-attachments/assets/710349a9-48d0-4ce8-9205-49ac88b7a1eb)
 
-Nos aparecera la ventana solicitando conectarnos a internet (No debemos conectarnos a ninguna red)
+    3. Nos aparecera la ventana solicitando conectarnos a internet (No debemos conectarnos a ninguna red)
 
 ![imagen](https://github.com/user-attachments/assets/87751ee9-1c9e-440b-aa9b-8393079f7a41)
 
-En este punto hacemos clic  en cualquier parte que no tenga hipervinculo podria ser sobre el logo de WIFI para que quede seleccionada la ventana  y presionamos las teclas   SHIFT + F10  o en dell seria SHIFT + FN + F10
+    4. En este punto hacemos clic  en cualquier parte que no tenga hipervinculo podria ser sobre el logo de WIFI para que quede seleccionada la ventana  y presionamos las teclas   SHIFT + F10  o en dell seria SHIFT + FN + F10
 
 ![imagen](https://github.com/user-attachments/assets/c107f74c-6f2c-4ed1-afdb-7177c7fc25c3)
 
-Nos aparecera una consola de CMD  
+    5. Nos aparecera una consola de CMD  
 
 Colocamos el siguiente comando y presionamos la tecla "ENTER"
 
@@ -31,11 +35,11 @@ Colocamos el siguiente comando y presionamos la tecla "ENTER"
 start ms-cxh:localonly
 ```
 
-Inmediatamente nos aparecera la ventana para crear el usuario local
+    6. Inmediatamente nos aparecera la ventana para crear el usuario local
 
 ![imagen](https://github.com/user-attachments/assets/e38d98fa-b805-4459-bb50-131bfcc86556)
 
-Creamos el usuario que vayamos a utilizar  y continuamos con el inicio del sistema seleccionando las siguientes opciones hasta iniciar sesion completamente
+    7. Creamos el usuario que vayamos a utilizar por ejemplo "user" y continuamos con el inicio del sistema seleccionando las siguientes opciones hasta iniciar sesion completamente
 
 ![imagen](https://github.com/user-attachments/assets/e6172b43-f9b8-4940-9f68-842098195b0e)
 
@@ -47,6 +51,4 @@ Creamos el usuario que vayamos a utilizar  y continuamos con el inicio del siste
 
 ![imagen](https://github.com/user-attachments/assets/f7f8c027-37e6-4f52-84fc-8233fa19e64d)
 
-![imagen](https://github.com/user-attachments/assets/91b5361d-fbc0-4098-af2f-2ac43f7bd015)
-
-
+![imagen](https://github.com/user-attachments/assets/91b5361d-fbc0-4098-af2f-2a
