@@ -51,4 +51,4 @@ start ms-cxh:localonly
 
 ![imagen](https://github.com/user-attachments/assets/f7f8c027-37e6-4f52-84fc-8233fa19e64d)
 
-![imagen](https://github.com/user-attachments/assets/91b5361d-fbc0-4098-af2f-2a
+
