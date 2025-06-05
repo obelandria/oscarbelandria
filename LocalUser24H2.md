@@ -35,7 +35,7 @@ Inmediatamente nos aparecera la ventana para crear el usuario local
 
 ![imagen](https://github.com/user-attachments/assets/e38d98fa-b805-4459-bb50-131bfcc86556)
 
-Creamos el usuario que vayamos a utilizar  y continuamos con el inicio del sistema selecnionando las siguientes opciones hasta iniciar sesion completamente
+Creamos el usuario que vayamos a utilizar  y continuamos con el inicio del sistema seleccionando las siguientes opciones hasta iniciar sesion completamente
 
 ![imagen](https://github.com/user-attachments/assets/e6172b43-f9b8-4940-9f68-842098195b0e)
 
