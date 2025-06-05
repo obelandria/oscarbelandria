@@ -19,7 +19,7 @@ Nos aparecera la ventana solicitando conectarnos a internet (No debemos conectar
 
 ![imagen](https://github.com/user-attachments/assets/87751ee9-1c9e-440b-aa9b-8393079f7a41)
 
-En este punto hacemos clic  en cualquier parte que no tenga hupervinculo podria ser sobre el logo de WIFI para que quede seleccionada la ventana  y presionamos las teclas   SHIFT + F10  o en dell seria SHIFT + FX + F10
+En este punto hacemos clic  en cualquier parte que no tenga hupervinculo podria ser sobre el logo de WIFI para que quede seleccionada la ventana  y presionamos las teclas   SHIFT + F10  o en dell seria SHIFT + FN + F10
 
 ![imagen](https://github.com/user-attachments/assets/c107f74c-6f2c-4ed1-afdb-7177c7fc25c3)
 
