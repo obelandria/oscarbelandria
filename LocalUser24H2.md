@@ -1,6 +1,7 @@
-Crear cuenta local en Windows 11 24H2
+## Crear cuenta local en Windows 11 24H2
 
-IMPORTANTE: El ordenador debe estar desconectado del internet
+> [!IMPORTANT]
+> El ordenador debe estar desconectado del internet
 
 Iniciamos el ordenador 
 
@@ -14,7 +15,7 @@ Seleccionamos la distribucion del teclado
 
 ![imagen](https://github.com/user-attachments/assets/710349a9-48d0-4ce8-9205-49ac88b7a1eb)
 
-Nos aparecera la ventana solicitando conectarnos a internet
+Nos aparecera la ventana solicitando conectarnos a internet (No debemos conectarnos a ninguna red)
 
 ![imagen](https://github.com/user-attachments/assets/87751ee9-1c9e-440b-aa9b-8393079f7a41)
 
